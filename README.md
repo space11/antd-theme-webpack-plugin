@@ -1,3 +1,6 @@
+# Medium.com article
+medium.com article: https://medium.com/@mzohaib.qc/ant-design-live-theme-588233ea2bbc
+
 # antd-theme-webpack-plugin
 
 This webpack plugin is to  generate color specific less/css and inject into your `index.html` file so 
